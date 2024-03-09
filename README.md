@@ -1,2 +1,2 @@
 # Country balls Beta v1.0
- oyun
+ bu oyun şu anda geliştirilme aşamasında olduğu için hatlar eksikler oyun açılmama gibi sebepleri olabilir 
