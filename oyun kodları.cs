@@ -1,4 +1,4 @@
-//ChatGPT ve Copilot yardımıyla yazılmıştır
+//ChatGPT ve GitHub Copilot yardımıyla yazılmıştır
 
 using System;
 using System.Drawing;
